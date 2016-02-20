@@ -1,0 +1,19 @@
+{
+  "name": "mcpheeclansocietynz.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradchristensen/mcpheeclansocietynz.com.git"
+  },
+  "author": "Louise Hutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradchristensen/mcpheeclansocietynz.com/issues"
+  },
+  "homepage": "https://github.com/bradchristensen/mcpheeclansocietynz.com#readme"
+}
